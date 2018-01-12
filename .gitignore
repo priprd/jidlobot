@@ -1,0 +1,12 @@
+log/*
+temp/*
+vendor/*
+!vendor/others
+.idea/
+__zdroje/db/*.bak
+.DS_Store
+!.gitignore
+!.htaccess
+!web.config
+app/config/config.local.neon
+composer.lock

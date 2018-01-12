@@ -1,0 +1,9 @@
+{
+	"require": {
+		"nette/nette": "^2.3",
+		"symfony/dom-crawler": "^3.0",
+		"symfony/css-selector": "^3.0",
+		"guzzlehttp/guzzle": "^6.2",
+		"kdyby/console": "^2.7"
+	}
+}
