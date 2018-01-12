@@ -8,7 +8,7 @@ class ZomatoModel
     use Nette\SmartObject;
 
     const URL="https://developers.zomato.com/api/v2.1/dailymenu?res_id=";
-    const USER_KEY="26ff1071b42df80193b22f5fc8d0f5fe";
+    const USER_KEY="OWNKEY";
        const MESSAGE_EMPTY_MENU = 'Sorry jako dneska nic nemaj';
 
     /**
